@@ -67,4 +67,24 @@ Opinión (Xi)----------Cantidad de votantes (ni)----------Productos (ni * Xi)
 
 0-----------------------40---------------------------------0
 
+----------------------------------------
+
+Luego hay que sumar los productos:
+
+200 + 396 + 435 + 266 + 96 + 0 = 1393
+
+Y a continuación hay que sumar las frecuencias:
+
+40 + 99 + 145 + 133 + 96 + 40 = 553
+
+La media se calcula obteniendo la relación entre estos dos valores, es decir: 1393/553= 2,51.
+
+Ahora vamos a pasar al cálculo de la varianza. Para cada observación obtendremos el producto de la frecuencia por la diferencia elevada al cuadrado entre el valor observado y la media.
+
+Por ejemplo, para la primera observación tenemos:
+
+40*((5 - 2,51)2) = 246,21
+
+Lo que nos da la siguiente tabla:
+
 
