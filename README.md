@@ -15,7 +15,7 @@ Estas son las opiniones (calificadas de 0 a 5) obtenidas por una película, dond
 
 Opinión----------Cantidad de votantes  
 
-5----------------40
+5------------------40
 
 4----------------99
 
