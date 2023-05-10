@@ -49,3 +49,22 @@ El 99,7 % de las observaciones están comprendidas en el intervalo que va desde 
 
 Ahora vamos a hacer algunos cálculos que al mismo tiempo nos permitirán ver cómo utilizar la idea de frecuencia en los cálculos de media y de desviación típica.
 
+Las opiniones corresponden a nuestros valores observados denominados Xi, y la cantidad de votantes se equipara a la cantidad de veces en que el valor observado ha sido elegido por los espectadores. Entonces hablamos de frecuencia de elección, que se denomina Ni.
+
+A fin de calcular la media de esta serie de observaciones, para cada observación hay que realizar el producto de las opiniones por la cantidad de votantes:
+
+Opinión (Xi)----------Cantidad de votantes (ni)----------Productos (ni * Xi)
+
+5-----------------------40---------------------------------200
+
+4-----------------------99---------------------------------396
+
+3-----------------------145--------------------------------435
+
+2-----------------------133--------------------------------266
+
+1-----------------------96---------------------------------96
+
+0-----------------------40---------------------------------0
+
+
